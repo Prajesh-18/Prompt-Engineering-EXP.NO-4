@@ -41,4 +41,9 @@ Everyday Functioning Prompts:
 
   OUTPUT:
 
+  [prajesh sk 4 (1).pdf](https://github.com/user-attachments/files/28660669/prajesh.sk.4.1.pdf)
+
+
   RESULT:
+
+  thus the output has been done.
